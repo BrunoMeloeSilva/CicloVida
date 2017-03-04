@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ciclo Vida</string>
+    <string name="msg">Veja o LogCat !</string>
+    <string name="btn1_msg">Vai para tela 2</string>
+</resources>
